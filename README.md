@@ -28,9 +28,6 @@ The project leverages modern technologies to provide a seamless experience for u
 A highly skilled software developer with over 8 years of experience in full-stack development. Known for mastering modern web technologies such as React, Node.js, and CSS preprocessors. Passionate about helping others and contributing to open-source projects. Committed to writing clean, maintainable code and providing solutions that are both efficient and effective.  
 **Email:** tina85august@outlook.com
 **Website:** https://www.floridablue-fl.com
-## Getting Started
-
-To get started with the Florida Blue project locally, follow the steps below:
 
 ### Clone the Repository:
 
